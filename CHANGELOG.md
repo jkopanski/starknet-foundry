@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+#### Added
+
+- `sncast verify` now supports verifying against [voyager](https://voyager.online/) block explorer.
+
 ## [0.38.0] - 2025-02-25
 
 ### Forge
